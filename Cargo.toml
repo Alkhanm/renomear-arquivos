@@ -6,6 +6,7 @@ description = "Ferramenta para alterar textos"
 homepage = "https://github.com/Alkhanm/renomear-arquivos"
 repository = "https://github.com/Alkhanm/renomear-arquivos"
 keywords = ["cli", "files", "directories"]
+readme = "README.md"
 license = "MIT OR Apache-2.0"
 categories = ["command-line-utilities"]
 edition = "2018"
