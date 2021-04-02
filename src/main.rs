@@ -1,5 +1,3 @@
-mod main2;
-
 use clap::{Arg, App};
 use std::fs::{read_dir, DirEntry};
 use std::fs::File;
